@@ -5,8 +5,8 @@
 -👀 Passionate about DevOps, system administration, and automation.                                                                                                                   
 -🌱 Currently learning Red Hat Certified System Administrator (RHCSA).                                                                                                                   
 -💡 Always eager to explore cloud computing, CI/CD pipelines, and containerization.                                                                         
--💞️ Open to collaborating on DevOps projects and system automation.
--📫 Get in Touch                                                                                              
+-💞️ Open to collaborating on DevOps projects and system automation.                                                                                                                 
+-📫 Get in Touch   :                                                                                                                                                                                                             
 -📩 Email: fatma.mjr11@gmail.com
 
 
