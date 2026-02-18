@@ -1,16 +1,47 @@
--👋 Hello, I'm Fatma Mejri                                                                                                     
--🚀 DevOps & System Administration Enthusiast
+# 👋 Hi, I'm Fatma Mejri  
 
--🌟 About Me                                                                                                                                                                                        
--👀 Passionate about DevOps, system administration, and automation.                                                                                                                   
--🌱 Currently learning Red Hat Certified System Administrator (RHCSA).                                                                                                                   
--💡 Always eager to explore cloud computing, CI/CD pipelines, and containerization.                                                                         
--💞️ Open to collaborating on DevOps projects and system automation.                                                                                                                 
--📫 Get in Touch   :                                                                                                                                                                                                             
--📩 Email: fatma.mjr11@gmail.com
+🚀 **DevOps & Cloud Engineer | Full-Stack Developer**  
+---
+## 👩‍💻 About Me  
 
+I’m a Software Engineering student passionate about building **scalable, secure, and automated systems**.  
+My expertise bridges **DevOps, Cloud Infrastructure, and Full-Stack Development**, allowing me to design, develop, and deploy complete end-to-end solutions.
+---
+## 🎓 Certifications  
 
-<!---  
-FatmaMejri1/FatmaMejri1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
-You can click the Preview link to take a look at your changes.  
---->
+- 🏅 **Red Hat Certified System Administrator (RHCSA)**
+- 🏅 **Oracle DevOps Professional Certification**
+- 🏅 **Microsoft Azure Fundamentals**
+- ☁️ AWS Trainee  
+---
+## 🛠️ Technical Skills  
+
+### 🔹 DevOps & Cloud  
+- CI/CD Pipelines  
+- Infrastructure as Code (IaC)  
+- Docker & Containerization  
+- Linux System Administration  
+- Cloud Architecture (AWS & Azure)  
+
+### 🔹 Full-Stack Development  
+- Frontend & Backend Development  
+- REST API Design  
+- Database Integration  
+- Web Application Architecture  
+---
+## 📌 Interests  
+- Cloud-native architectures  
+- Automation & Infrastructure Optimization  
+- Scalable Web Applications  
+- System Security & Performance  
+---
+## 🤝 Let’s Collaborate  
+
+I’m open to collaborating on:  
+- DevOps & Automation projects  
+- Cloud-based solutions  
+- Full-stack web platforms  
+---
+## 📫 Contact  
+
+📩 **Email:** fatma.mjr11@gmail.com  
