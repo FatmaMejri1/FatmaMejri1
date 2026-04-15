@@ -17,11 +17,11 @@
 ---
 
 ## 🎓 Certifications  
-
+🏅 AWS Solution Architect
 🏅 RHCSA (Red Hat Certified System Administrator)  
-🏅 Oracle DevOps Professional  
-🏅 Microsoft Azure Fundamentals  
-☁️ AWS Trainee  
+🏅 Oracle DevOps Professional (OCI)
+🏅 Microsoft Azure Fundamentals AZ-900 
+ 
 
 ---
 
